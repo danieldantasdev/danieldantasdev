@@ -30,12 +30,20 @@ Here are some ideas to get you started:
   ##
  
 <div> 
-  <a href="#" target="_blank"><img src="https://aleen42.github.io/badges/src/photoshop.svg" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://aleen42.github.io/badges/src/illustrator.svg" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://aleen42.github.io/badges/src/dreamweaver.svg" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://aleen42.github.io/badges/src/after_effects.svg" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://aleen42.github.io/badges/src/premiere.svg" target="_blank"></a>
-  
+ 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" target="_blank"></a>
+   <a href="#" target="_blank"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+
 ![Snake animation](https://github.com/robotsdeveloper/robotsdeveloper/blob/output/github-contribution-grid-snake.svg)
 
   
