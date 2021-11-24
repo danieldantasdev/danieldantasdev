@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/robotsdeveloper/robotsdeveloper/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lobinhodev/lobinhodev/blob/output/github-contribution-grid-snake.svg)
 
   
    <!--<a href="https://www.instagram.com/robotdeveloper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
