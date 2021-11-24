@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <div align="flex-start">
   <a href="https://github.com/lobinhodev">
-  <img height="180em" width="100rem" src="https://github-readme-stats.vercel.app/api?username=robotsdeveloper&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500rem" src="https://github-readme-stats.vercel.app/api?username=robotsdeveloper&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotsdeveloper&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
