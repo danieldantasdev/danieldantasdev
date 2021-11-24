@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ele/dele
 -->
 
-## Olá! Eu sou o Daniel Dantas...<img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://media.discordapp.net/attachments/892047192632725524/892048325350686770/Dark_Blue__White_Robot_Logo_Template.png?width=468&height=468"> 
+## Olá! Eu sou o Daniel Dantas...<img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892047192632725524/912858934480621568/ASS_-_Lobinho_..png?width=468&height=468"> 
 
 <div align="center">
-  <a href="https://github.com/robotsdeveloper">
+  <a href="https://github.com/lobinhodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robotsdeveloper&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotsdeveloper&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
