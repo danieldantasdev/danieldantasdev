@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ele/dele
 -->
 
-## Olá! Eu sou o Daniel Dantas...  <img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892047192632725524/912858934480621568/ASS_-_Lobinho_..png?width=400&height=400"> 
+## Olá! Eu sou o Daniel Dantas...                           <img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892047192632725524/912858934480621568/ASS_-_Lobinho_..png?width=400&height=400"> 
 
 <div align="center">
   <a href="https://github.com/lobinhodev">
