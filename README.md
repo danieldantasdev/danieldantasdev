@@ -1,13 +1,3 @@
-<!--
-**robotsdeveloper/robotsdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente, sou graduando em Análise e Desenvolvimento de Sistemas, estou a procura de um estágio na parte Front-end
-- 🌱 Estudando Typescript
-- 📫 contatorobotdeveloper@gmail.com
-- 😄 Pronouns: ele/dele
--->
 
 ## Olá! Eu sou o Daniel Dantas... <img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892047192632725524/912858934480621568/ASS_-_Lobinho_..png?width=200&height=200">
 
@@ -176,7 +166,7 @@ Here are some ideas to get you started:
 |:---:|:---:|:---:|:---:|
 
 
-## Portfólio
+### Portfólio
 
 <a href="https://lobinhodev.github.io/Portfolio-lobinhodev/">
 	<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
