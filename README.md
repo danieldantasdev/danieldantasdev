@@ -71,6 +71,12 @@ Here are some ideas to get you started:
 />
 -->
 <a href="#">
+      <img alt="html" src="https://img.shields.io/badge/html-F7DF1E.svg?style=for-the-badge&logo=html&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="css" src="https://img.shields.io/badge/css-F7DF1E.svg?style=for-the-badge&logo=css&logoColor=white" />
+</a>
+<a href="#">
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
 <a href="#">
