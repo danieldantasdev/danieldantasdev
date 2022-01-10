@@ -170,9 +170,8 @@ Here are some ideas to get you started:
 
 
 ### Portfólio
-<img target="_blank">
-	<a href="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://lobinhodev.github.io/Portfolio-lobinhodev/">
-</img>
+
+<a href="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://lobinhodev.github.io/Portfolio-lobinhodev/">
 	
 
 
