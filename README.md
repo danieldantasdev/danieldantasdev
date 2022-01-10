@@ -86,17 +86,9 @@ Here are some ideas to get you started:
       <img alt="sql" src="https://img.shields.io/badge/sql-0076D0.svg?style=for-the-badge&logo=sql&logoColor=white" />
 </a>
  -->
+	
 #### :hammer: Frameworks
 
-<!-- <a href="#">
-      <img alt="Electron" src="https://img.shields.io/badge/electron-4078C3.svg?style=for-the-badge&logo=electron&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="gatsby" src="https://img.shields.io/badge/gatsby-542C85.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
-</a>
-<a href="#">
-      <img alt="Next" src="https://img.shields.io/badge/next-333.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-</a> -->
 <a href="#">
       <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
@@ -109,6 +101,15 @@ Here are some ideas to get you started:
 <a href="#">
       <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>
+<!-- <a href="#">
+      <img alt="Electron" src="https://img.shields.io/badge/electron-4078C3.svg?style=for-the-badge&logo=electron&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="gatsby" src="https://img.shields.io/badge/gatsby-542C85.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
+</a>
+<a href="#">
+      <img alt="Next" src="https://img.shields.io/badge/next-333.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+</a> -->	
 	
 
 
