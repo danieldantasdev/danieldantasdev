@@ -171,8 +171,8 @@ Here are some ideas to get you started:
 
 ### Portfólio
 
-<a href="#">
-	<img src="https://img.shields.io/website-up-down-green-red/https://lobinhodev.github.io/Portfolio-lobinhodev/ website:https://lobinhodev.github.io/Portfolio-lobinhodev/">
+<a href="https://lobinhodev.github.io/Portfolio-lobinhodev/">
+	<img src="https://img.shields.io/website-up-down-green-red/">
 </a>
 	
 
