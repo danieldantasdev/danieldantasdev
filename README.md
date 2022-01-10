@@ -28,28 +28,12 @@ Here are some ideas to get you started:
   <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1632780907576.png">
 </div>
   
-  ##
- 
- 
-  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" target="_blank"></a>
-  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank"></a>
-
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
-  
   ### :computer: Technical Skills
 
 
 #### 🎨 ✍🏼 Designing: <br/>
 	
-  <a href="#" target="_blank">
-	  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
-</a>
-  <a href="#" target="_blank">
-	  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" target="_blank">
-</a>
+
 <a href="#" target="_blank">
 	<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" target="_blank">
 </a>
@@ -67,7 +51,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank">
 	  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" target="_blank">
 </a>
-  <a href="#" target="_blank">]
+  <a href="#" target="_blank">
 	  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" target="_blank">
 </a>	
 <a href="#" target="_blank">
@@ -116,7 +100,13 @@ Here are some ideas to get you started:
 
 
 #### :wrench: Tools & Environments
-
+	
+  <a href="#" target="_blank">
+	  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
+</a>
+  <a href="#" target="_blank">
+	  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" target="_blank">
+</a>
 <a href="#">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>
