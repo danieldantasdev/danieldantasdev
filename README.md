@@ -168,10 +168,11 @@
 
 ### Portfólio
 
-<a href="https://lobinhodev.github.io/Portfolio-lobinhodev/" align="center" >
-	<img width="500px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
-	
+<div align="center" >
+	<a href="https://lobinhodev.github.io/Portfolio-lobinhodev/" align="center" >
+		<img width="500px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+	</a>
+</div>
 
 
 ![Snake animation](https://github.com/lobinhodev/lobinhodev/blob/output/github-contribution-grid-snake.svg)
