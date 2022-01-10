@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/lobinhodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&theme=blue-green"/>
 </div>
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
