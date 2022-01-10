@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 ## Olá! Eu sou o Daniel Dantas... <img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892047192632725524/912858934480621568/ASS_-_Lobinho_..png?width=200&height=200">
 
 
-<div align="center" style="display:flex; flex-direction:column;>
+<div align="center" >
   <a href="https://github.com/lobinhodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&theme=blue-green"/>
 </div>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&theme=blue-green"/>
+	
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
