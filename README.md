@@ -140,16 +140,22 @@
 #### Architetures & Others
 
 <p align="left">
-
+	
+<a href="#">
+      <img alt="SMACSS" src="https://img.shields.io/badge/Microservices-gray.svg?style=for-the-badge" />
+</a>
+	<a href="#">
+      <img alt="BEM" src="https://img.shields.io/badge/Microservices-gray.svg?style=for-the-badge" />
+</a>
 <a href="#">
       <img alt="Microservices" src="https://img.shields.io/badge/Microservices-gray.svg?style=for-the-badge" />
 </a>
-<a href="#">
+<!-- <a href="#">
       <img alt="MVC" src="https://img.shields.io/badge/MVC-gray.svg?style=for-the-badge" />
-</a>
-<a href="#">
+</a> -->
+<!-- <a href="#">
       <img alt="DesignPattern" src="https://img.shields.io/badge/DesignPattern-gray.svg?style=for-the-badge" />
-</a>
+</a> -->
 <a href="#">
       <img alt="CleanCode" src="https://img.shields.io/badge/CleanCode-gray.svg?style=for-the-badge" />
 </a>
