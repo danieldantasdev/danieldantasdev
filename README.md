@@ -7,14 +7,14 @@
 </div> -->
 
 <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&layout=compact&langs_count=7&theme=midnight-purple"/
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&layout=compact&langs_count=7&theme=midnight-purple"/
 </div>
-<div align="center"> 
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=lobinhodev&theme=midnight-purple"/>
+<div> 
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=lobinhodev&theme=midnight-purple"/>
 </div>
-<div align="center">
-     <img height="485em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&theme=midnight-purple"/>
+<div>
+     <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&theme=midnight-purple"/>
 </div>
 	
 <!-- <div style="display: inline_block"><br>
