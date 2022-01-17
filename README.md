@@ -9,11 +9,13 @@
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&layout=compact&langs_count=7&theme=midnight-purple"/>
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lobinhodev&theme=midnight-purple"/>
-    <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=lobinhodev&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lobinhodev&theme=midnight-purple"/>
 </div>
 <div> 
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&theme=midnight-purple"/>	
+     <img height="435em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&theme=midnight-purple"/>	
+</div>
+<div>
+     <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=lobinhodev&theme=midnight-purple"/>
 </div>
 
 	
