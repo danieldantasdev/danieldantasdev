@@ -7,7 +7,8 @@
 </div> -->
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
+	<!--&include_all_commits=true&count_private=true-->
 </div>
 <div>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lobinhodev&theme=midnight-purple"/>
