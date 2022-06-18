@@ -1,6 +1,4 @@
-
 ## Olá! Eu sou o Daniel Dantas... <img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892047192632725524/912858934480621568/ASS_-_Lobinho_..png?width=200&height=200">
-
 
 <!-- <div align="center" >
 	<a href="https://github.com/lobinhodev"></a>
@@ -21,7 +19,6 @@
      <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=lobinhodev&theme=midnight-purple"/>
 </div>
 
-	
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -32,12 +29,10 @@
   <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1632780907576.png">
 </div> -->
-  
-  ### :computer: Technical Skills
 
+### :computer: Technical Skills
 
 #### 🎨 ✍🏼 Designing: <br/>
-	
 
 <a href="#" target="_blank">
 	<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" target="_blank">
@@ -63,9 +58,7 @@
 	  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
 </a>
 
-
-
-####  :speech_balloon: Languages
+#### :speech_balloon: Languages
 
 <!--
 <img
@@ -115,11 +108,10 @@
 <a href="#">
       <img alt="Next" src="https://img.shields.io/badge/next-333.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 </a> -->	
-	
 
 
 #### :wrench: Tools & Environments
-	
+
   <a href="#" target="_blank">
 	  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
 </a>
@@ -141,8 +133,6 @@
 <a href="#">
       <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a>
-
-
 
 #### Architetures & Others
 
@@ -171,12 +161,10 @@
 </a>
 </p>
 
-
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lobinhodev/) |  [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/story/robotdeveloper) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:contatorobotdeveloper@gmail.com)
-|:---:|:---:|:---:|
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lobinhodev/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/story/robotdeveloper) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:contatorobotdeveloper@gmail.com) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <!--[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/robotdeveloper/) |-->
 
@@ -188,9 +176,6 @@
 	</a>
 </div>
 
-
 ![Snake animation](https://github.com/lobinhodev/lobinhodev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-  
-
