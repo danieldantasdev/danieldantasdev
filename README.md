@@ -40,6 +40,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"/>
 </div>
 
 </br>
@@ -102,13 +103,16 @@
 	<a href="https://github.com/lobinhodev"></a>
 </div> -->
 
-<div style="display:flex">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
+<div style="display:flex" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
 	<!--&include_all_commits=true&count_private=true-->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lobinhodev&theme=midnight-purple"/>
-<!--<img height="435em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&theme=midnight-purple"/> -->
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&layout=compact&langs_count=7&theme=midnight-purple"/>
-    <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=lobinhodev&theme=midnight-purple"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lobinhodev&theme=midnight-purple"/>
+<!--<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&theme=midnight-purple"/> -->
+</div>
+
+<div style="display:flex" align="left">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&layout=compact&langs_count=7&theme=midnight-purple"/>
+     <img src="https://activity-graph.herokuapp.com/graph?username=lobinhodev&theme=midnight-purple"/>
 </div>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
