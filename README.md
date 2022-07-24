@@ -1,4 +1,4 @@
-## Hi... <img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892047192632725524/912858934480621568/ASS_-_Lobinho_..png?width=200&height=200">
+<img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892047192632725524/912858934480621568/ASS_-_Lobinho_..png?width=200&height=200">
 
 ### :computer: Technical Skills
 
@@ -47,16 +47,19 @@
 <a href="#">
       <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
-<!-- <a href="#">
+<a href="#">
       <img alt="typescript" src="https://img.shields.io/badge/typescript-1E84D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-</a> -->
-<!-- <a href="#">
+</a> 
+<a href="#">
       <img alt="sql" src="https://img.shields.io/badge/sql-0076D0.svg?style=for-the-badge&logo=sql&logoColor=white" />
 </a>
- -->
+
 	
 #### :hammer: Frameworks
 
+<a href="#">
+      <img alt="React" src="https://img.shields.io/badge/angular-ff0000.svg?style=for-the-badge&logo=angular&logoColor=white" />
+</a>
 <a href="#">
       <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
