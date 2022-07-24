@@ -4,7 +4,7 @@
 
 # 💻 Technical Skills
 
-## 🎨 ✍🏼 Designing: <br/>
+## 🎨 ✍🏼 Designing: <br/></br>
 
 <div align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="photoshop logo" />
@@ -15,9 +15,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" width="52" alt="behance logo"  />
 </div>
 
-## 💬 Programming: <br/>
+<br/>
 
-      > `Front-end:`
+## 💬 Programming: <br/></br>
+
+### `Front-end:` </br></br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -31,21 +33,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 </div>
 
-      > `Back-end:`
+</br>
+
+### `Back-end:` <br/><br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"/>
 </div>
 
-      > `Database:`
+</br>
+
+### `Database:` <br/><br/>
 
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
 </div>
 
-      > `Tools and environments:`
+</br>
+
+### `Tools and environments:` <br/><br/>
 
 <div align="left">
 <svg viewBox="0 0 128 128" height="40" width="52">
@@ -61,7 +69,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"/>
 </div>
 
-      > `Architecture:`
+</br>
+
+### `Architecture:` <br/><br/>
 
 <div align="left">
 <a href="#">
@@ -86,6 +96,7 @@
       <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-gray.svg?style=for-the-badge" />
 </a>
 </div>
+<br/>
 
 <!-- <div align="center" >
 	<a href="https://github.com/lobinhodev"></a>
