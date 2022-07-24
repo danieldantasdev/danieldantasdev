@@ -178,4 +178,10 @@
 
 ![Snake animation](https://github.com/lobinhodev/lobinhodev/blob/output/github-contribution-grid-snake.svg)
 
+###
+
+<p align="center"> Quantidade  de visitas no meu perfi  </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/lobinhodev/count.svg" />
+
+
 </div>
