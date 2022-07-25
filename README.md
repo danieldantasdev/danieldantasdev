@@ -2,6 +2,20 @@
 
 <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1632780907576.png">
 
+## Documentação de cores
+
+| Designing                                                                                                  | Front-end                                                                                            | Back-end                                                                                 | Architeture |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------- |
+| ![photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg)              | ![html5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)                | ![nodejs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) |
+| ![illustrator](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg)        | ![css3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)                   | ![csharp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) |
+| ![premierepro](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg)    | ![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)       |
+| ![aftereffects](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg) | ![typescript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) |
+| ![indesign](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)                   | ![sass](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)                   |
+| ![behance](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg)                | ![bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)    |
+|                                                                                                            | ![angularjs](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)    |
+|                                                                                                            | ![react](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)                |
+|                                                                                                            |                                                                                                      |
+
 # 💻 Technical Skills
 
 ## 🎨 ✍🏼 Designing: <br/></br>
@@ -10,7 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="photoshop logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" width="52" alt="illustrator logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" width="52" alt="premierepro logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="52" alt="after logo" />                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="40" width="52" alt="xd logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="52" alt="after logo" />                             
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="40" width="52" alt="xd logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" width="52" alt="behance logo"  />
 </div>
@@ -121,7 +136,7 @@
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lobinhodev/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/17020212/lobinhodev) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:contatolobinhodev@gmail.com) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <!--[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/robotdeveloper/) |-->
 
