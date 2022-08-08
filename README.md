@@ -2,7 +2,7 @@
 
 <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1632780907576.png">
 
-## Documentação de cores
+<!--## Documentação de cores
 
 | Designing                                                                                                  | Front-end                                                                                            | Back-end                                                                                 | Datase                                                                                      | Architecture                                                                                            |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -17,6 +17,7 @@
 |                                                                                                            |                                                                                                      |                                                                                          |                                                                                             | ![yarn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg)                      |
 |                                                                                                            |                                                                                                      |                                                                                          |                                                                                             | ![spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)                |
 |                                                                                                            |                                                                                                      |                                                                                          |                                                                                             |                                                                                                         |
+-->
 
 # 💻 Technical Skills
 
