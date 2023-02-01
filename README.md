@@ -27,7 +27,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="visualstudio logo"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo" />
-      <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" height="60" width="60" alt="docker logo"/>
+      <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" height="40" width="52" alt="docker logo"/>
 
 </section>
 
