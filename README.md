@@ -93,7 +93,7 @@
 
 <div style="display:flex" align="left">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&layout=compact&langs_count=7&theme=midnight-purple"/>
-     <img src="https://activity-graph.herokuapp.com/graph?username=lobinhodev&theme=midnight-purple"/>
+     <!-- <img src="https://activity-graph.herokuapp.com/graph?username=lobinhodev&theme=midnight-purple"/> -->
 </div>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
@@ -107,7 +107,7 @@
 
 <div>
 	<a href="https://lobinhodev.github.io/Portfolio-lobinhodev/" >
-		<img width="50px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+		<img width="150px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 	</a>
 </div>
 
