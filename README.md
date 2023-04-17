@@ -76,17 +76,17 @@
 </main>
 
 <div style="display:flex" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=lobinhodev&show_icons=true&theme=midnight-purple&include_all_commits=true&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lobinhodev&theme=midnight-purple"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=danieldantasdev&show_icons=true&theme=midnight-purple&include_all_commits=true&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldantasdev&theme=midnight-purple"/>
 </div>
 
 <div style="display:flex" align="left">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobinhodev&layout=compact&langs_count=7&theme=midnight-purple"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldantasdev&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 # Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/lobinhodev/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/17020212/lobinhodev) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:contatolobinhodev@gmail.com) |
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/danieldantasdev/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/17020212/danieldantasdev) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:contatodanieldantasdev@gmail.com) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <!--[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/robotdeveloper/) |-->
@@ -99,11 +99,11 @@
 	</a>
 </div>
 
-![Snake animation](https://github.com/lobinhodev/lobinhodev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danieldantasdev/danieldantasdev/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
 <p align="center"> Quantidade  de visitas no meu perfil  </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/lobinhodev/count.svg" />
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/danieldantasdev/count.svg" />
 
 </div>
