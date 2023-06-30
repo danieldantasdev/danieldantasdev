@@ -76,12 +76,12 @@
 </main>
 
 <div style="display:flex" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=danieldantasdev&show_icons=true&theme=midnight-purple&include_all_commits=true&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=danieldantasdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldantasdev&theme=midnight-purple"/>
 </div>
 
 <div style="display:flex" align="left">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldantasdev&layout=compact&langs_count=7&theme=midnight-purple"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldantasdev&layout=compact&langs_count=7&theme=midnight-purple&hide=html"/>
 </div>
 
 # Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
