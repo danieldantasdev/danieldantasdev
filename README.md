@@ -81,7 +81,7 @@
 </div>
 
 <div style="display:flex" align="left">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldantasdev&layout=compact&langs_count=7&theme=midnight-purple&hide=html"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldantasdev&layout=compact&langs_count=7&theme=midnight-purple&hide=html,java,less,css,sass,scss,ejs"/>
 </div>
 
 # Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
