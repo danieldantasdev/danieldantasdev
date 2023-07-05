@@ -76,7 +76,7 @@
 </main>
 
 <div style="display:flex" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=danieldantasdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=danieldantasdev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieldantasdev&theme=midnight-purple"/>
 </div>
 
