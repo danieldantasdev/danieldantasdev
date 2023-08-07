@@ -99,7 +99,7 @@
 	</a>
 </div>
 
-![snake animation](https://github.com/danieldantasdev/danieldantasdev/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/danieldantasdev/danieldantasdev/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <p align="center"> Quantidade  de visitas no meu perfil  </p>
