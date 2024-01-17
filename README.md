@@ -4,7 +4,27 @@
 <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1632780907576.png">
 </header>
 
-# 💫 About Me:
+# 💫 Sobre mim:
+
+💼 Experiência Profissional:
+
+1. Destitech:
+    - Atuação como Desenvolvedor de Sistemas Backend (.Net);
+    - 12/2023 até Atual;
+
+2. 2Flex Telecom:
+    - Atuação como Analista e Desenvolvedor de Sistemas (Angular e .Net);
+    - 02/2023 até 11/2023;
+
+3. Tardis Tecnologia:
+    - Atuação como Analista e Desenvolvedor de Sistemas (Angular e .Net);
+    - 05/2022 até 02/2023;
+
+📰 Resumo:
+
+1. Analista e Desenvolvedor de Sistemas, graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC) com ênfase em Engenharia de Software. 
+Tenho mais de 3 anos de atuação no mercado, com experiência em criação de APIs usando ASP.NET Core e construção de interfaces com o Framework Angular. Minha trajetória inclui a contribuição em projetos ágeis, com a cultura SCRUM e tradicionais, com a cultura WATERFALL. Possuo habilidades em C, C++, C#, .Net, UML, Angular, TypeScript, JavaScript, Docker, Git. 
+Além de minhas habilidades técnicas, compartilho meu conhecimento e experiência por meio da redação de artigos na plataforma Medium, proporcionando insights à comunidade de Software.
 
 ## 🎯 Objetivos de Carreira:
 
@@ -15,12 +35,11 @@
     - Alcançar o cargo de arquiteto de software / professor universitário;
       <br><br>
 3. Geral:
-    - Continuar envolvido em todas as fases do ciclo de vida do software, desde a concepção até a implementação, tanto
-      no frontend quanto no backend. Almejo também a contínua busca por especialização acadêmica em ambas as áreas;
+    - Continuar envolvido em todas as fases do ciclo de vida do software, desde a concepção até a implementação, focando em backend; 
 
 ## 🎓 Formação:
 
-1. Graduando em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC -
+1. Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC -
    FATEC);
 
 ## 🛠 Habilidades Técnicas:
