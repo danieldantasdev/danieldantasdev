@@ -2,15 +2,19 @@
 
 💼 Experiência Profissional:
 
-1. Destitech:
-    - Atuação como Desenvolvedor de Sistemas Backend (.Net);
-    - 12/2023 até Atual;
+1. Senac DN (Departamento Nacional)
+   - Atuação como Assessor Técnico III (Análise de Sistemas);
+   - 05/2025 até atual;
 
-2. 2Flex Telecom:
+3. Grupo Iter:
+    - Atuação como Desenvolvedor de Sistemas Backend (.Net);
+    - 12/2023 até 05/2025;
+
+4. 2Flex Telecom:
     - Atuação como Analista e Desenvolvedor de Sistemas (Angular e .Net);
     - 02/2023 até 11/2023;
 
-3. Tardis Tecnologia:
+5. Tardis Tecnologia:
     - Atuação como Analista e Desenvolvedor de Sistemas (Angular e .Net);
     - 05/2022 até 02/2023;
 
