@@ -1,9 +1,3 @@
-<header id="l-header"  style="display:flex;justify-content:space-between;align-items:center">
-<img align="center" alt="Daniel-pic" height="80" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/892047192632725524/912858934480621568/ASS_-_Lobinho_..png?width=200&height=**200**">
-
-<img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1632780907576.png">
-</header>
-
 # 💫 Sobre mim:
 
 💼 Experiência Profissional:
