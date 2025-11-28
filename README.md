@@ -37,8 +37,18 @@ Além de minhas habilidades técnicas, compartilho meu conhecimento e experiênc
 
 ## 🎓 Formação:
 
-1. Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC -
-   FATEC);
+1. Graduação:
+
+1.1 Tecnólogo:
+- Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC) (2021.1 - 2023-2);
+
+2. Pós Graduação:
+
+2.1 Stricto Sensu:
+- Mestrando pelo programa PGSC (Pós graduação em Sistemas e Computação) , com foco em engenharia de software pelo Instituto Militar de Engenharia (IME) (2024.1 - atual);
+
+2.2 Latu Sensu
+- Especializando no curso de Arquitetura de Software e Soluções, com IA aplicada pela (XP) (2025.1 - atual);
 
 ## 🛠 Habilidades Técnicas:
 
